@@ -1,4 +1,4 @@
-import Heaps.Heap;
+import HeapPractice.Heap;
 
 public class HelloWorld {
     public static void main(String[] args){
