@@ -14,12 +14,6 @@ public class AVLTree {
         return head;
     }
 
-    public void addNode(AVLTreeNode node) {
-        if (node.val < head.val) {
-
-        }
-    }
-
     private int getBalance(AVLTreeNode node) {
         if (node == null) {
             return 0;
