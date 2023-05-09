@@ -1,12 +1,12 @@
-package TreePractice;
+package CustomDataStructures;
 
 import java.util.List;
 
-class CustomTuple {
+public class CustomTuple {
     public int leftVal;
     public List<Integer> rightVal;
     CustomTuple(){}
-    CustomTuple(int leftVal, List<Integer> rightVal){
+    public CustomTuple(int leftVal, List<Integer> rightVal){
         this.leftVal = leftVal;
         this.rightVal = rightVal;
     }

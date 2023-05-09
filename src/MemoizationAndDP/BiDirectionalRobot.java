@@ -1,6 +1,7 @@
 package MemoizationAndDP;
 
-import com.sun.tools.javac.util.Pair;
+
+import CustomDataStructures.Pair;
 
 import java.util.HashSet;
 import java.util.Set;

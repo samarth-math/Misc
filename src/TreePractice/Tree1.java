@@ -1,6 +1,6 @@
 package TreePractice;
 
-import StringPractice.String1;
+import CustomDataStructures.CustomTuple;
 
 import java.util.*;
 
